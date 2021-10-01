@@ -1,0 +1,30 @@
+[
+  {
+    "value": "on",
+    "synonyms": [
+      "on",
+      "turned on"
+    ]
+  },
+  {
+    "value": "off",
+    "synonyms": [
+      "off",
+      "turned off"
+    ]
+  },
+  {
+    "value": "charging",
+    "synonyms": [
+      "charging"
+    ]
+  },
+  {
+    "value": "charged",
+    "synonyms": [
+      "charged",
+      "fully charged",
+      "done charging"
+    ]
+  }
+]

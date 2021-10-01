@@ -1,0 +1,156 @@
+[
+  {
+    "id": "4f3efe82-98bc-4f54-a0b4-dc79e96e9e00",
+    "data": [
+      {
+        "text": "How is the baby\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "heart rate",
+        "alias": "reading_property",
+        "meta": "@reading_property",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543451465
+  },
+  {
+    "id": "905c5bd9-79dc-4d0f-a14a-3f6442e45b9a",
+    "data": [
+      {
+        "text": "Check ",
+        "userDefined": false
+      },
+      {
+        "text": "her",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heart rate",
+        "alias": "reading_property",
+        "meta": "@reading_property",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543451465
+  },
+  {
+    "id": "c9b74432-d565-48dc-84a0-23c74127fbe4",
+    "data": [
+      {
+        "text": "How is ",
+        "userDefined": false
+      },
+      {
+        "text": "Kevin\u0027s",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heart rate",
+        "alias": "reading_property",
+        "meta": "@reading_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543451465
+  },
+  {
+    "id": "1f1f9a1d-3191-47e3-976d-83687193fd3d",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "rate",
+        "alias": "reading_property",
+        "meta": "@reading_property",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543451465
+  },
+  {
+    "id": "15af4ca1-07e3-4b9e-aecd-6e9bfc996ef7",
+    "data": [
+      {
+        "text": "How is the ",
+        "userDefined": false
+      },
+      {
+        "text": "oxygen",
+        "alias": "reading_property",
+        "meta": "@reading_property",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543451465
+  },
+  {
+    "id": "d46c1610-5db4-4b77-a360-ec52a6ee9d68",
+    "data": [
+      {
+        "text": "What\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Olivias",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heart rate",
+        "alias": "reading_property",
+        "meta": "@reading_property",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543451465
+  }
+]

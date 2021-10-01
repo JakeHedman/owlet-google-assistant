@@ -1,0 +1,38 @@
+{
+  "id": "e49b0e39-adb2-4339-b35b-3665ac3f0dfb",
+  "name": "Get status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fa4cb7d2-aaf2-49d6-9bd4-8043c88e53c3",
+          "required": true,
+          "dataType": "@status_property",
+          "name": "status_property",
+          "value": "$status_property",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543446812,
+  "fallbackIntent": false,
+  "events": []
+}

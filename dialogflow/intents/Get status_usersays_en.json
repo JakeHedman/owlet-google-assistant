@@ -1,0 +1,205 @@
+[
+  {
+    "id": "bd99493b-4b1c-4c60-bf0e-1c5f4316fbf0",
+    "data": [
+      {
+        "text": "Is the owlet ",
+        "userDefined": false
+      },
+      {
+        "text": "turned on",
+        "alias": "status_property",
+        "meta": "@status_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543442566
+  },
+  {
+    "id": "5606c9b7-2230-45b9-b97b-348141b6b87b",
+    "data": [
+      {
+        "text": "Is it ",
+        "userDefined": false
+      },
+      {
+        "text": "turned off",
+        "alias": "status_property",
+        "meta": "@status_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543442566
+  },
+  {
+    "id": "73add23f-b0c3-4d4a-80d6-269f82d5f30c",
+    "data": [
+      {
+        "text": "Is it ",
+        "userDefined": false
+      },
+      {
+        "text": "turned on",
+        "alias": "status_property",
+        "meta": "@status_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543442566
+  },
+  {
+    "id": "9676007a-d719-493e-a0dd-836520b1ed31",
+    "data": [
+      {
+        "text": "Is the owlet ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status_property",
+        "meta": "@status_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543442566
+  },
+  {
+    "id": "3df7bf57-dfda-4057-b0ba-6cff01fa432b",
+    "data": [
+      {
+        "text": "Is it ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "alias": "status_property",
+        "meta": "@status_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543442566
+  },
+  {
+    "id": "ef5b7252-d9d0-434d-acfa-122cfda28fd1",
+    "data": [
+      {
+        "text": "Is the owlet ",
+        "userDefined": false
+      },
+      {
+        "text": "charged",
+        "alias": "status_property",
+        "meta": "@status_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543442566
+  },
+  {
+    "id": "27a429bb-88e9-4050-b818-5cb09637e6e5",
+    "data": [
+      {
+        "text": "Is",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " it ",
+        "userDefined": false
+      },
+      {
+        "text": "charged",
+        "alias": "status_property",
+        "meta": "@status_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543442566
+  },
+  {
+    "id": "71123f21-3dc2-47a2-88bc-b1988699e57a",
+    "data": [
+      {
+        "text": "Is it ",
+        "userDefined": false
+      },
+      {
+        "text": "charging",
+        "alias": "status_property",
+        "meta": "@status_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543442566
+  },
+  {
+    "id": "c24db8ce-3a15-4783-a1ad-dcfb32439276",
+    "data": [
+      {
+        "text": "Is owlet ",
+        "userDefined": false
+      },
+      {
+        "text": "charging",
+        "alias": "status_property",
+        "meta": "@status_property",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543442566
+  }
+]

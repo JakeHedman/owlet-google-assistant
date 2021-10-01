@@ -1,0 +1,159 @@
+[
+  {
+    "id": "83bee4e5-5265-41c2-9d81-164b8e0c94b6",
+    "data": [
+      {
+        "text": "Sock battery percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  },
+  {
+    "id": "e45d5a7f-ae74-4b1b-9912-d7b069ad8d75",
+    "data": [
+      {
+        "text": "What\u0027s the sock\u0027s battery percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  },
+  {
+    "id": "05ee9f58-41a4-4bbf-914a-41a928796720",
+    "data": [
+      {
+        "text": "How much battery is left in the sock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  },
+  {
+    "id": "23e3e6e5-4cc3-464a-88d3-5f3ace25e0b8",
+    "data": [
+      {
+        "text": "How much battery is left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  },
+  {
+    "id": "3b60ae6d-990a-43c7-97d8-3fba6934cdd5",
+    "data": [
+      {
+        "text": "What\u0027s the battery ",
+        "userDefined": false
+      },
+      {
+        "text": "level",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  },
+  {
+    "id": "da5cbceb-9e36-4ddb-a50d-f679a1f665ab",
+    "data": [
+      {
+        "text": "Battery ",
+        "userDefined": false
+      },
+      {
+        "text": "level",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sock",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  },
+  {
+    "id": "fbb786ef-65e6-477c-9378-1787b172b0d7",
+    "data": [
+      {
+        "text": "How much ",
+        "userDefined": false
+      },
+      {
+        "text": "charge",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  },
+  {
+    "id": "9b2162d6-06a6-4102-9339-a3690ca09fd3",
+    "data": [
+      {
+        "text": "How much juice is left",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  },
+  {
+    "id": "a2dcf53e-6136-4c8e-8d58-5500c54c2662",
+    "data": [
+      {
+        "text": "What\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "charge",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lvel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  },
+  {
+    "id": "1ed77c01-faa1-4d5c-8710-907365b28eb7",
+    "data": [
+      {
+        "text": "How much is the sock ",
+        "userDefined": false
+      },
+      {
+        "text": "charged",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1543454864
+  }
+]

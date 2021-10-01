@@ -1,0 +1,25 @@
+[
+  {
+    "value": "heart rate",
+    "synonyms": [
+      "heart rate",
+      "heart beats",
+      "beats per minute",
+      "bpm",
+      "rate",
+      "beats"
+    ]
+  },
+  {
+    "value": "oxygen level",
+    "synonyms": [
+      "oxygen level",
+      "oxygen levels",
+      "blood oxygen",
+      "blood oxygen level",
+      "blood oxygen levels",
+      "oxygen",
+      "level"
+    ]
+  }
+]

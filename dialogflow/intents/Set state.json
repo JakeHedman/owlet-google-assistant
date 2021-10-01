@@ -1,0 +1,37 @@
+{
+  "id": "955dad12-6c4b-4d12-bd94-2474f337a693",
+  "name": "Set state",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "186e45f4-b8c9-4c66-9744-5cad49523a1c",
+          "required": true,
+          "dataType": "@set_state",
+          "name": "set_state",
+          "value": "$set_state",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543452133,
+  "fallbackIntent": false,
+  "events": []
+}

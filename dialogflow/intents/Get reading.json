@@ -1,0 +1,54 @@
+{
+  "id": "b7ec6449-24b4-4de4-a900-441690f94719",
+  "name": "Get reading",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f311c448-f46a-479c-8011-a0db4dfa9c06",
+          "required": true,
+          "dataType": "@reading_property",
+          "name": "reading_property",
+          "value": "$reading_property",
+          "isList": false
+        },
+        {
+          "id": "52a16a3a-31a8-4ba9-b282-240b2be6224c",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "f024ca2a-74cc-4557-81d6-c2571dcd6eac",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543452179,
+  "fallbackIntent": false,
+  "events": []
+}

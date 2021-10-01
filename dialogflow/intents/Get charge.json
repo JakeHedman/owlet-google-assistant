@@ -1,0 +1,28 @@
+{
+  "id": "aefc80d2-0c92-4e7b-84c9-4ded76e3631b",
+  "name": "Get charge",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1543455966,
+  "fallbackIntent": false,
+  "events": []
+}
